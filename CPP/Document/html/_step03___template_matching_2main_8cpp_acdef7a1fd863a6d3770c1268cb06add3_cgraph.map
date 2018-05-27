@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_step03___template_matching_2main_8cpp.html#ac2f7417069d5f9ba6af7cf88bdee8619" title="輝度値を半分にする" alt="" coords="104,19,251,45"/>
+<area shape="rect" id="node7" href="$_step03___template_matching_2main_8cpp.html#ac45c23da0fe1862028f88f284636cc35" title="メイン関数から呼び出すテンプレートマッチング用関数 &#160;&#160;テストサンプルを1枚ずつ読み出してマッチング結果を得る &#160;&#160;マッチング結果は結果格納用の構造体に記録" alt="" coords="113,95,242,121"/>
+<area shape="rect" id="node5" href="$_pgm_i_o_8h.html#ae87577eb01d7d275ab25e98deda6dee0" title="PGM画像を読み込む" alt="" coords="378,5,491,32"/>
+<area shape="rect" id="node10" href="$_step03___template_matching_2main_8cpp.html#a8f6eb83d44f53ad063f1b697c3f430e7" title="入力画像に対して最もL1距離が小さい学習サンプルのクラスラベルを調べる" alt="" coords="371,56,498,83"/>
+<area shape="rect" id="node14" href="$struct_recognition_result.html#aa3f49a90caa88c27bb4e26aa0675e848" title="認識率を計算する" alt="" coords="339,107,530,133"/>
+<area shape="rect" id="node16" href="$struct_recognition_result.html#a52aaa323657701e37fd83847b76c5b90" title="認識率を標準出力に表示する" alt="" coords="301,157,568,184"/>
+<area shape="rect" id="node18" href="$struct_recognition_result.html#a76ae7a12662977ed3ea48ddfdf2f1f63" title="認識率をファイルに出力する" alt="" coords="299,208,570,235"/>
+<area shape="rect" id="node12" href="$_step03___template_matching_2main_8cpp.html#a1f413065e362c47c4b9ffcc503f3748d" title="2枚の画像間のL1距離を計算する" alt="" coords="619,56,733,83"/>
+</map>

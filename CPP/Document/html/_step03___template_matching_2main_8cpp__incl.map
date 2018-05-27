@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node5" href="$_config_8h.html" title="パラメータなどの設定を書くファイル" alt="" coords="94,80,164,107"/>
+<area shape="rect" id="node7" href="$_pgm_i_o_8h.html" title="PGM形式の画像を入出力するためのヘッダファイル" alt="" coords="189,80,264,107"/>
+<area shape="rect" id="node11" href="$_recognition_result_8h.html" title="認識結果を保存する構造体を定義したファイル" alt="" coords="288,80,427,107"/>
+</map>

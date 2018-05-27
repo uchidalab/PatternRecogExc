@@ -1,0 +1,23 @@
+var NAVTREEINDEX =
+{
+"index.html":[],
+"annotated.html":[0,0],
+"struct_pgm_image.html":[0,0,0],
+"struct_recognition_result.html":[0,0,1],
+"classes.html":[0,1],
+"functions.html":[0,2,0],
+"functions_func.html":[0,2,1],
+"functions_vars.html":[0,2,2],
+"files.html":[1,0],
+"_config_8h.html":[1,0,0],
+"_step01___image_i_o_2main_8cpp.html":[1,0,1],
+"_pgm_i_o_8h.html":[1,0,2],
+"_step02___image_processing_2main_8cpp.html":[1,0,3],
+"_step03___template_matching_2main_8cpp.html":[1,0,4],
+"_recognition_result_8h.html":[1,0,5],
+"globals.html":[1,1,0],
+"globals_func.html":[1,1,1],
+"globals_vars.html":[1,1,2],
+"globals_type.html":[1,1,3],
+"globals_defs.html":[1,1,4]
+};

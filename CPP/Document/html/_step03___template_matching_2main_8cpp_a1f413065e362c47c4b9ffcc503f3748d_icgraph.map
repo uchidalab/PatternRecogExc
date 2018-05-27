@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$_step03___template_matching_2main_8cpp.html#a8f6eb83d44f53ad063f1b697c3f430e7" title="入力画像に対して最もL1距離が小さい学習サンプルのクラスラベルを調べる" alt="" coords="169,5,295,32"/>
+<area shape="rect" id="node5" href="$_step03___template_matching_2main_8cpp.html#ac45c23da0fe1862028f88f284636cc35" title="メイン関数から呼び出すテンプレートマッチング用関数 &#160;&#160;テストサンプルを1枚ずつ読み出してマッチング結果を得る &#160;&#160;マッチング結果は結果格納用の構造体に記録" alt="" coords="345,5,474,32"/>
+<area shape="rect" id="node7" href="$_step03___template_matching_2main_8cpp.html#acdef7a1fd863a6d3770c1268cb06add3" title="main" alt="" coords="523,5,573,32"/>
+</map>
